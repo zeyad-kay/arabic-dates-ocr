@@ -1,4 +1,4 @@
-# OCR Task
+# Arabic Dates OCR
 
 This repo contains the code for Optical Character Recognition (OCR) for dates written in Arabic numbers. The code is written using Tensorflow.
 
